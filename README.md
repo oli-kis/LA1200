@@ -73,3 +73,5 @@ string input = Console.ReadLine();
 - Mehr Zeit für Zusatzziele einplanen oder nicht zu grosse Ziele setzten
 - Die Testfälle genauer beschreiben und mehr davon schreiben
 
+###### Das hat mir dabei geholfen
+- Youtube Video 
