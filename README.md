@@ -24,7 +24,7 @@ Unsere Aufgabe war, ein Programm zu programmieren welches eine **Zufallszahl** z
 [![Zum Video!](https://github.com/oli-kis/oli-kis/blob/oli-kis/img/Video%20Thumbnail.png?raw=true)](https://youtu.be/rmw3Wywplo4)
 
 ### Bild
-
+##### Auf diesem Bild wird dargestellt wie die Zufallszahl generiert wird und der User nach seinem Namen gefragt wird.
 ![Mein Programm!](https://github.com/oli-kis/oli-kis/blob/oli-kis/img/CodeImage.png?raw=true "CodeImage")
 
 ### Text
