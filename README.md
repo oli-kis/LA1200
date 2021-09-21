@@ -5,17 +5,17 @@ Unsere Aufgabe war, ein Programm zu programmieren welches eine **Zufallszahl** z
 
 ### Ziele
 ###### Hauptziele:
-<p>1-Das Programm lässt eine zufällige Zahl generieren.<\p>
-2-Der Benutzer kann so viel raten wie er will.
-3-Das Programm kann mit Fehleingaben umgehen.
-4-Für jeden falschen Rateversuch wird ein Tipp ausgegebn.
+1. Das Programm lässt eine zufällige Zahl generieren.
+2. Der Benutzer kann so viel raten wie er will.
+3. Das Programm kann mit Fehleingaben umgehen.
+4. Für jeden falschen Rateversuch wird ein Tipp ausgegebn.
 
 ###### Erweiterte Ziele:
-5-Das Programm schreibt mit unterschiedlichen Farben.
-6-Der User kann, falls er möchte, das Spiel neustarten.
-7-Das Programm spielt während des Spiels Hintergrundmusik ab.
-8-Bei der Eingabe gewisser Zahlen erscheint ein Easter Egg.y
-9-Ein Highscoreboard erstellen
+5. Das Programm schreibt mit unterschiedlichen Farben.
+6. Der User kann, falls er möchte, das Spiel neustarten.
+7. Das Programm spielt während des Spiels Hintergrundmusik ab.
+8. Bei der Eingabe gewisser Zahlen erscheint ein Easter Egg.y
+9. Ein Highscoreboard erstellen
 
 ## Inhalt
 
