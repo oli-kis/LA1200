@@ -5,7 +5,7 @@ Unsere Aufgabe war, ein Programm zu programmieren welches eine **Zufallszahl** z
 
 ### Ziele
 ###### Hauptziele:
-1-Das Programm lässt eine zufällige Zahl generieren.
+<p>1-Das Programm lässt eine zufällige Zahl generieren.<\p>
 2-Der Benutzer kann so viel raten wie er will.
 3-Das Programm kann mit Fehleingaben umgehen.
 4-Für jeden falschen Rateversuch wird ein Tipp ausgegebn.
