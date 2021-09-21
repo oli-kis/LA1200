@@ -14,8 +14,8 @@ Unsere Aufgabe war, ein Programm zu programmieren welches eine **Zufallszahl** z
 5. Das Programm schreibt mit unterschiedlichen Farben.
 6. Der User kann, falls er möchte, das Spiel neustarten.
 7. Das Programm spielt während des Spiels Hintergrundmusik ab.
-8. Bei der Eingabe gewisser Zahlen erscheint ein Easter Egg.y
-9. Ein Highscoreboard erstellen
+8. Bei der Eingabe gewisser Zahlen erscheint ein Easter Egg.
+9. Ein Highscoreboard erstellen.
 
 ## Inhalt
 
