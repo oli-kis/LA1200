@@ -1,9 +1,3 @@
-# LA1200
-Random Number Generator
-This is a schoolproject which creates a random number
-
-The music was taken from: https://www.youtube.com/watch?v=jj0ChLVTpaA 
-
 # LA1200 Random Number Generator
 Ich habe im Rahmen des Informatik Lernatelier's einen **Random Number Generator** programmiert, der eine Zufallszahl generiert, welche der User erraten muss.
 ## Aufgabenstellung
