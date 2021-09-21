@@ -30,9 +30,13 @@ Unsere Aufgabe war, ein Programm zu programmieren welches eine **Zufallszahl** z
 ### Text
 
 Wenn das Programm gestartet wird fängt es automatisch an Musik zu spielen, dafür muss man `using System.Media;` verwenden und eine Extension Downloaden. 
+
 Danach wird der User begrüsst und nach seinem Namen gefragt. Im Hintergrund wird schon eine zufällige Zahl zwischen 1-100 generiert die der User danach erraten kann. 
+
 Jede Eingabe die vom User getätigt wird, wird vom Programm geprüft und erkannt ob die eingegebene Zahl zu gross, zu klein oder eine Fehleingabe ist.
-Wenn der User die Zahl errät wird ihm gratuliert und die Anzahl Versuche werden angezeigt. Damit die Anzahl Versuche gezählt werden, habe ich eine neue `Variable` erstellt welche bei jedem Rateversuch eins hoch gezählt wird.
+Wenn der User die Zahl errät wird ihm gratuliert und die Anzahl Versuche werden angezeigt. 
+Damit die Anzahl Versuche gezählt werden, habe ich eine neue `Variable` erstellt welche bei jedem Rateversuch eins hoch gezählt wird.
+
 So erkennt das Programm Fehleingaben:
 
 ```csharp
@@ -60,12 +64,12 @@ string input = Console.ReadLine();
 | 9 | Ja, ich hatte zu wenig Zeit ein Highscoreboard zu erstellen, nächstes Mal setze ich mir keine zu Hohe Ziele      | Nein |
 
 ###### Was habe ich gut gemacht:
--Mein Programm läuft ohne Probleme und ich kam schnell voran mit dem Programmieren.
--Freie Zeit für Extraziele zu verwenden und das Programm auszubauen.
+- Mein Programm läuft ohne Probleme und ich kam schnell voran mit dem Programmieren.
+- Freie Zeit für Extraziele zu verwenden und das Programm auszubauen.
 
 ###### Für nächstes Mal kann ich folgendes besser machen:
--Weniger Zeit für die Hauptziele einplanen
--Öfters Youtube als Informationsquelle verwenden
--Mehr Zeit für Zusatzziele einplanen oder nicht zu grosse Ziele setzten
--Die Testfälle genauer beschreiben und mehr davon schreiben
+- Weniger Zeit für die Hauptziele einplanen
+- Öfters Youtube als Informationsquelle verwenden
+- Mehr Zeit für Zusatzziele einplanen oder nicht zu grosse Ziele setzten
+- Die Testfälle genauer beschreiben und mehr davon schreiben
 
